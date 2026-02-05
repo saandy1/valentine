@@ -1,10 +1,10 @@
 const slides = [
-  { src: "images/moment-1.svg", caption: "Moment 1" },
-  { src: "images/moment-2.svg", caption: "Moment 2" },
-  { src: "images/moment-3.svg", caption: "Moment 3" },
-  { src: "images/moment-4.svg", caption: "Moment 4" },
-  { src: "images/moment-5.svg", caption: "Moment 5" },
-  { src: "images/moment-6.svg", caption: "Moment 6" }
+  { src: "images/moment-1.jpg", caption: "Moment 1" },
+  { src: "images/moment-2.jpg", caption: "Moment 2" },
+  { src: "images/moment-3.jpg", caption: "Moment 3" },
+  { src: "images/moment-4.jpg", caption: "Moment 4" },
+  { src: "images/moment-5.jpg", caption: "Moment 5" },
+  { src: "images/moment-6.jpg", caption: "Moment 6" }
 ];
 
 const slideImg = document.getElementById("slide");
